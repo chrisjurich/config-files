@@ -1,0 +1,167 @@
+ls
+exit()
+# Octave 5.2.0, Wed Mar 04 10:48:00 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+exit() 
+# Octave 5.2.0, Wed Mar 04 10:48:08 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 10:48:29 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 12:39:44 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 12:40:03 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 12:41:20 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 12:45:08 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 12:46:08 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 12:46:51 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 12:47:11 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 12:47:39 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 12:47:47 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:04:13 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:06:52 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:07:26 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:10:26 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:10:41 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:11:03 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:12:01 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:12:35 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:12:58 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:13:09 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:13:14 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:13:24 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:13:44 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:27:40 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+pkg list
+pkg install -auto -forge image
+exit()
+# Octave 5.2.0, Wed Mar 04 13:29:14 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+pkg install -forge image
+pkg install -forge optim && pkg install -forge signal && pkg install -forge io && pkg install -forge econometrics && exit
+pkg install -forge optim && pkg install -forge signal && pkg install -forge io && pkg install -forge econometrics && exit
+pkg install -forge optim io 
+pkg install -forge struct statistics
+pkg install -forge struct
+pkg lsit
+pkg list
+pkg install -forge statistics
+pkg install -forge io
+pkg list
+pkg install -forge optim
+pkg install -forge statistics
+pkg list
+pkg install -forge optim
+pkg list
+pkg install -forge signal
+pkg install -forge control 
+pkg list
+pkg install -forge signal
+# Octave 5.2.0, Wed Mar 04 13:47:29 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+pkg install -forge signal
+pkg list
+pkg install -forge econometrics
+exit
+# Octave 5.2.0, Wed Mar 04 13:49:51 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+pkg list
+pkg load control
+pkg load * 
+pkg load econometrics
+pkg load image
+pkg load io optim
+pkg load signal statistics struct
+pkg list 
+exit
+# Octave 5.2.0, Wed Mar 04 13:50:52 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+pkg list
+pkg load control econometrics image io optim signal statistics struct 
+pkg list
+savepath()
+cool
+lol
+disp(cool)
+type(cool)
+cool.type()
+size(cool)
+info
+octave eliminationOctave
+octave eliminationOctave.m 
+exit
+# Octave 5.2.0, Wed Mar 04 13:52:32 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:52:35 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:53:23 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+pkg list
+addpath("/Users/cjurich/octave/io-2.4.13")
+exit()
+# Octave 5.2.0, Wed Mar 04 13:54:54 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:54:57 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+addpath("/Users/cjurich/octave/io-2.4.13")
+savepath()
+exit
+# Octave 5.2.0, Wed Mar 04 13:55:24 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:55:26 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+# Octave 5.2.0, Wed Mar 04 13:55:41 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+addpath("/Users/cjurich/projects/mvapack-master/mvapack/inst")
+savepath()
+exit
+# Octave 5.2.0, Wed Mar 04 13:58:01 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+addpath('/Users/cjurich/projects/mvapack-master/coffees_data/*')
+F.dirs = glob('/Users/cjurich/projects/mvapack-master/coffees_data/*');
+F.dirs
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+pkg list
+addpath("Users/cjurich/octave/io-2.4.13")
+addpath("/Users/cjurich/octave/io-2.4.13")
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+addpath("/Users/cjurich/octave/image-2.12.0")
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+addpath("/Users/cjurich/projects/mvapack-master/mvapack/nmrpipe/nmrbin.mac11_64/nmrPipe")
+addpath("/Users/cjurich/projects/mvapack-master/mvapack/nmrpipe/nmrbin.mac11_64/nmrPipe")
+addpath("/Users/cjurich/projects/mvapack-master/mvapack/nmrpipe/nmrbin.mac11_64/")
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+pkg list
+# Octave 5.2.0, Wed Mar 04 14:09:51 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+F.dirs = glob('/Users/cjurich/projects/mvapack-master/coffees_data/*');
+F.dirs
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+pkg list
+addpath("/Users/cjurich/octave/")
+pkg list
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+addpath("/Users/cjurich/octave/")
+savepath()
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+addpath("/Users/cjurich/octave/")
+savepath()
+vi ~/.octaverc
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+exit
+# Octave 5.2.0, Wed Mar 04 15:39:15 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+F.dirs = glob('/Users/cjurich/projects/mvapack-master/coffees_data/*');
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+fexist()
+pkg list
+fexist()
+exit
+# Octave 5.2.0, Wed Mar 04 15:41:36 2020 CST <cjurich@Chriss-MacBook-Pro-2.local>
+fexist()
+ls
+path
+pkg list
+addpath(
+)
+addpath("/Users/cjurich/octave/io-2.4.13")
+savepath()
+fexist()
+F.dirs = glob('/Users/cjurich/projects/mvapack-master/coffees_data/*');
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+[F.all, F.parms, F.t] = loadnmr(F.dirs);
+# Octave 5.2.0, Wed Mar 11 09:56:24 2020 CDT <cjurich@Chriss-MacBook-Pro-2.local>
+disp("A")
+disp('A')
+exit()
+# Octave 5.2.0, Fri Mar 13 16:04:56 2020 CDT <cjurich@chriss-mbp-2.unl.edu>
+packages
+pkg list
+exit()
+# Octave 5.2.0, Fri Mar 13 16:52:22 2020 CDT <cjurich@chriss-mbp-2.unl.edu>
+D = ;
+D = 1;
+D
+# Octave 5.2.0, Sun Mar 15 12:09:39 2020 CDT <cjurich@Chriss-MacBook-Pro-2.local>
